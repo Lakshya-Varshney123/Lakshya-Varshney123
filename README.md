@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Lakshya-Varshney123/Lakshya-Varshney123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Lakshya Varshney</h1>
+<h3 align="center">CSE (Data Science) Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech in CSE (Data Science)
+- 🌱 Learning Java, DSA and Web Development
+- 🤖 Interested in Artificial Intelligence
+- 🚀 Building projects and improving my coding skills
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+</p>
+
+### 🚀 My Goals
+
+- Solve DSA problems consistently
+- Build practical AI/ML projects
+- Develop full-stack web applications
+- Prepare for software development placements
+
+### 📫 Connect With Me
+
+- LinkedIn: varshneylak123@gmail.com
+- Email: varshneylakshya123@gmail.com
