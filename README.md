@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.jpg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Lakshya Varshney</h1>
 <h3 align="center">CSE (Data Science) Student</h3>
 
